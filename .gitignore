@@ -5,6 +5,13 @@
 # 예외
 !memo*.txt
 
+# pycache folder 제거
+__pycache__/
+
+# pycache File 제거
+*.pyc
+*.pycache
+
 # tempCodeRunnerFile제거
 tempCodeRunnerFile.c
 tempCodeRunnerFile.exe
